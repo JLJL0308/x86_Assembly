@@ -1,2 +1,2 @@
 # x86_Assembly
-## Linux Ubuntu
+## Linux Ubuntu (NASM)
