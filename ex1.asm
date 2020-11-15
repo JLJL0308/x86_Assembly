@@ -1,6 +1,6 @@
 global _start
 _start
-	mov eax, 5
-	mov ebx, 10
-	sub ebx, 1
+	mov eax, 1
+	mov ebx, 42
+	sub ebx, 29
 	int 0x80

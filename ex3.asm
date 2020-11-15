@@ -7,7 +7,7 @@ _start:
 	mov eax, 1 ;sys_exit system call
 	cmp ecx, 100 ;compare ecx to 100
 	jl skip ;jump if less than
-	mov ebx, 10 ;exit status is 10
+	mov ebx, 13 ;exit status is 13
 skip:
 	int 0x80
 	
